@@ -15,7 +15,7 @@ uint8_t ledPinout[][8] = {
         {0,1,1,0,0,1,0,1}, //e 
         {0,1,1,0,0,1,0,1}, //e    
                         };
-int ledPins[] = {5,6,9,10,11,'A2','A3','A4','A5'};
+int ledPins[] = {5,6,9,10,11,A2,A3,A4,A5};
 int pinCount = 9;
 int pinLoop = 0;
 
